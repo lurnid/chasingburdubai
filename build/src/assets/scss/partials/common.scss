@@ -1,3 +1,6 @@
+body {
+    background-color: #4A779C;
+}
 .section {
     padding: rem-calc(20) 0;
 
@@ -16,8 +19,8 @@
         background-size: cover;
 
         .callout {
-            background-color: rgba(57, 30, 23, 0.6);
-            color: white;
+            background-color: rgba(232, 230, 230, 0.8);
+            color: #333;
         }
 
         p {

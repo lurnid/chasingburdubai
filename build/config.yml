@@ -53,6 +53,8 @@ PATHS:
     - "bower_components/foundation-sites/js/foundation.tabs.js"
     - "bower_components/foundation-sites/js/foundation.toggler.js"
     - "bower_components/foundation-sites/js/foundation.tooltip.js"
+    # Other bower components
+    - "bower_components/packery/dist/packery.pkgd.js"
     # Paths to your own project code are here
     - "src/assets/js/!(app).js"
     - "src/assets/js/app.js"
