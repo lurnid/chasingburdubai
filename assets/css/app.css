@@ -4525,7 +4525,7 @@ table.hover tr:nth-of-type(even):hover {
   padding: 1.25rem 0; }
   .section.intro {
     /* The background image */
-    background-image: url("assets/img/background-1.jpg");
+    background-image: url("/assets/img/background-1.jpg");
     /* Set a specified height, or the minimum height for the background image */
     min-height: 500px;
     /* Set background image to fixed (don't scroll along with the page) */
